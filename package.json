@@ -7,16 +7,16 @@
     "export",
     "es6"
   ],
-  "homepage": "https://github.com/hisabimbola/slack-history-export#readme",
+  "homepage": "https://github.com/itpatrol/slack-history-export#readme",
   "bugs": {
-    "url": "https://github.com/hisabimbola/slack-history-export/issues"
+    "url": "https://github.com/itpatrol/slack-history-export/issues"
   },
   "license": "MIT",
   "author": "Abimbola Idowu <abimbola2010@gmail.com> (http://hisabimbola.com)",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hisabimbola/slack-history-export.git"
+    "url": "https://github.com/itpatrol/slack-history-export.git"
   },
   "bin": {
     "slack-history-export": "bin/slack-history-export.js"
